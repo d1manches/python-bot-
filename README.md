@@ -59,3 +59,5 @@ pip install pyTelegramBotApi pyautogui webbrowser scipy sounddevice
 P.S (для открытия steam и прочих программ нужно будет самостоятельно указать путь к ним)
 
 Этот бот значительно упрощает выполнение рутинных задач и улучшает производительность за счет автоматизации Telegram.
+
+Ссылка на презентацию по менеджменту: https://docs.google.com/presentation/d/1ScX3H9kDdDX-FK-nDbRFMIkhWTJvYNm6187ckwttgJw/edit?usp=sharing
